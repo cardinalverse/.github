@@ -1,2 +1,3 @@
-# .github
-Software and research for spatial-omics
+# CardinalMSI
+
+Computational software and research for spatial-omics
