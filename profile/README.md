@@ -1,4 +1,4 @@
-## Software and research for spatial-omics
+## Computational software and research for spatial-omics
 
 *__Cardinal MSI__* is a Github organization for software and research in spatial-omics lead by Prof. Kylie Ariel Bemis in collaboration with Olga Vitek Lab at Northeastern University.
 
