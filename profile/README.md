@@ -6,7 +6,7 @@ We develop and maintain software and computational research tools for:
 
 - __Multidimensional spectral imaging data__, with a particular focus on
 - __Mass spectrometry-based imaging experiments__ and
-- __Multimodal spatial-omics integration__
+- __Multimodal spatial-omics integration__ for statistics and machine learning
 
 Eventually, the packages *Cardinal* and *matter* will be migrated to this organization.
 
