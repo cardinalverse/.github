@@ -1,6 +1,6 @@
 ## Software for spatial biology
 
-*__Cardinalverse__* is a Github organization for software and research in spatial molecular biology lead by Prof. Kylie Ariel Bemis in collaboration with Olga Vitek Lab at Northeastern University.
+*__Cardinalverse__* is a Github organization for software and research in spatial molecular biology lead by Prof. Kylie Ariel Bemis in collaboration with Olga Vitek Lab at the Khoury College of Computer Sciences at Northeastern University.
 
 Eventually, the packages *Cardinal* and *matter* will be migrated to this organization.
 
